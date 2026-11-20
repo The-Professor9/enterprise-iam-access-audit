@@ -1,0 +1,16 @@
+entitlement_id,employee_id,application_name,role_name,access_level,last_login_date,approved_by
+ENT1001,EMP001,SAP_ERP,AP_Invoice_Processor,Write,2026-11-18,EMP005
+ENT1002,EMP001,SAP_ERP,Vendor_Master_Create,Write,2026-11-14,EMP005
+ENT1003,EMP002,SAP_ERP,PO_Creator,Write,2026-11-19,EMP006
+ENT1004,EMP003,AWS_Prod,AdministratorAccess,Admin,2026-11-19,EMP007
+ENT1005,EMP004,Workday_HR,Payroll_Admin,Admin,2026-11-02,EMP005
+ENT1006,EMP005,SAP_ERP,AP_Payment_Approver,Approve,2026-11-18,EMP010
+ENT1007,EMP006,SAP_ERP,PO_Approver,Approve,2026-11-19,EMP010
+ENT1008,EMP008,SAP_ERP,Inventory_Viewer,Read,2026-11-17,EMP006
+ENT1009,EMP008,SAP_ERP,PO_Creator,Write,2026-06-12,EMP006
+ENT1010,EMP009,SAP_ERP,AP_Invoice_Processor,Write,2026-11-19,EMP005
+ENT1011,EMP011,SAP_ERP,PO_Creator,Write,2026-10-05,EMP006
+ENT1012,EMP012,WMS_Logistics,Warehouse_Operator,Write,2026-11-19,EMP008
+ENT1013,EMP013,Active_Directory,Domain_Admins,Admin,2026-11-18,EMP007
+ENT1014,EMP014,SAP_ERP,GL_Journal_Post,Write,2026-11-19,EMP005
+ENT1015,EMP015,SAP_ERP,Vendor_Master_Create,Write,2026-11-18,EMP006
