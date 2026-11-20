@@ -1,0 +1,16 @@
+employee_id,full_name,department,job_title,employment_status,termination_date,manager_id
+EMP001,Sarah Jenkins,Finance,Accounts Payable Specialist,Active,,EMP005
+EMP002,Marcus Vance,Procurement,Supply Chain Buyer,Active,,EMP006
+EMP003,Elena Rostova,IT Operations,Systems Administrator,Active,,EMP007
+EMP004,David Chen,Finance,Payroll Analyst,Terminated,2026-10-15,EMP005
+EMP005,Karen Miller,Finance,Finance Manager,Active,,EMP010
+EMP006,Robert Thorne,Procurement,Procurement Director,Active,,EMP010
+EMP007,Alicia Gomez,IT Operations,IT Director,Active,,EMP010
+EMP008,Jameson Brooks,Supply Chain,Inventory Analyst,Active,,EMP006
+EMP009,Priya Patel,Finance,Accounts Payable Specialist,Active,,EMP005
+EMP010,Thomas Wright,Executive,VP of Operations,Active,,
+EMP011,kevin.doyle,Procurement,Supply Chain Buyer,Terminated,2026-09-30,EMP006
+EMP012,Sofia Alvarez,Supply Chain,Warehouse Coordinator,Active,,EMP008
+EMP013,Liam OConnor,IT Operations,Help Desk Technician,Active,,EMP007
+EMP014,Hannah Abbott,Finance,Senior Accountant,Active,,EMP005
+EMP015,Noah Sterling,Procurement,Vendor Master Data Analyst,Active,,EMP006
